@@ -3,7 +3,7 @@
 ## About This Project
 
 This project is a personal exploration of my own **YouTube watch and search history**, downloaded via [Google Takeout](https://takeout.google.com/).  
-The notebook analyzes how my viewing habits have changed over time — from binge-watching dramas to searching for Python tutorials.  
+The notebook analyzes how my viewing habits have changed over time, from binge-watching dramas to searching for Python tutorials.  
 
 It reflects how digital behavior can mirror real-life milestones, evolving interests, and even weekend routines.
 
@@ -41,9 +41,9 @@ It reflects how digital behavior can mirror real-life milestones, evolving inter
 ## Key Takeaways
 
 1. **Content Evolution**  
-   - 2020–2022: heavy on dramas, movies, comfort content  
+   - 2020–2022: heavy on dramas (mostly k-dramas), movies, comfort content  
    - 2023–2024: shift toward travel, lifestyle, food  
-   - 2025: spike in tech/programming content — aligned with starting my master’s  
+   - 2025: spike in tech/programming content (aligned with starting my master’s)  
 
 2. **Cooking is a Constant**  
    - “recipe” and “cook” appear consistently in both watch and search history  
@@ -83,9 +83,9 @@ It reflects how digital behavior can mirror real-life milestones, evolving inter
 
 ## What I Learned
 
-- YouTube activity can reflect personal phases and interests
-- Even basic metadata (titles and timestamps) reveals clear patterns
-- This was both a technical and a reflective exercise
+- My YouTube activity can reflect personal phases and interests
+- Even basic metadata (titles and timestamps) can uncover clear and meaningful patterns
+- This was not only a technical exercise, it also became a personal reflection
 
 ---
 
@@ -99,4 +99,5 @@ It reflects how digital behavior can mirror real-life milestones, evolving inter
 
 ## Contact
 
-Open to connect and share ideas on personal data storytelling projects.
+Feel free to connect if you'd like to share your own data journey or explore similar personal data stories!
+
