@@ -66,8 +66,6 @@ It reflects how digital behavior can mirror real-life milestones, evolving inter
 | `Personal Youtube Streaming and Search History.ipynb` | Main notebook |
 | `watch-history.json` | Raw watch history (ignored by GitHub) |
 | `search-history.json` | Raw search history (ignored by GitHub) |
-| `filtered_watch_history.csv` | Cleaned watch data |
-| `cleaned_search_history.csv` | Cleaned search data |
 
 ---
 
